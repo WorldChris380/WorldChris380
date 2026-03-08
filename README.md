@@ -5,13 +5,11 @@
 
 - 🔭 I’m currently working on [Private and Business Website for 2026](https://github.com/WorldChris380/website_v2026)
 
-- 🌱 I’m currently mastering and improving **Angular**
+- 🌱 I’m currently starting with **Backend**
 
-- 👯 I’m looking to collaborate on **aviation projects**
+- 👯 I’m looking to collaborate on **aviation and touristic projects**
 
-- 🤝 I’m looking for help with **TypeScript**
-
-- 👨‍💻 Most of my projects are available at [https://github.com/WorldChris380](https://github.com/WorldChris380)
+- 🤝 I’m looking for help with **The future of web development in combination with AI**
 
 - 💬 Ask me about **CSS, aviation and tourism**
 
