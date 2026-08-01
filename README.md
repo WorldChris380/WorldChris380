@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **The future of web development in combination with AI**
 
-- 💬 Ask me about **CSS, aviation and tourism**
+- 💬 Ask me about **Coding, photography, aviation and tourism**
 
 - 📫 How to reach me **career@christian-boehme.com**
 
